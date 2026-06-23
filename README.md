@@ -93,10 +93,6 @@ PhonePe-PowerBI-Dashboard/
 
 ## 🙋 Author
 
-**[Your Name]**
-📧 [your.email@example.com]
-🔗 [LinkedIn Profile URL]
-💼 [Portfolio URL]
 
 ---
 
