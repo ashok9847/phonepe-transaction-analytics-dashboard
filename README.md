@@ -1,7 +1,7 @@
 # 📊 Power BI Dashboard | PhonePe Transaction Analytics & Business Insights
 
 <p align="center">
-  <img src="dashboard.png" alt="PhonePe Transaction Analytics Dashboard" width="100%"/>
+  <img src="dashboard.jpeg" alt="PhonePe Transaction Analytics Dashboard" width="100%"/>
 </p>
 
 ---
